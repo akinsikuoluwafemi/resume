@@ -1,0 +1,63 @@
+
+
+body {
+    background-color: #E5E5E5;
+    
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+    margin: 2rem auto;
+    background-color: white;
+    border-radius: .3rem;
+}
+
+.intro {
+    font-size: 1rem;
+    color: rgba(0,0,0,0.82);
+    line-height: 1.6rem;
+}
+
+
+.text-info:hover{
+    text-decoration: none;
+}
+
+img {
+    height: 40px;
+}
+
+
+
+.item {
+
+    &__dev {
+         font-size: .9rem;
+        margin-bottom: 1rem;
+    }
+
+    &__header {
+        font-size: .9rem;
+        margin-bottom: 1rem;
+    }
+    &__job {
+
+    }
+    &__description {
+        font-weight: 100;
+        font-size: .9rem;
+    }
+
+
+    
+}
+
+
+.list__item {
+    padding: 12px;
+}
+
+// <a href="/images/myw3schoolsimage.pdf" download>
+//     <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
+// </a>
