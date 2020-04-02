@@ -42,4 +42,10 @@ img {
 .list__item {
   padding: 12px;
 }
+
+@media (max-width: 576px) {
+  br {
+    display: none;
+  }
+}
 /*# sourceMappingURL=resume.css.map */

@@ -54,5 +54,8 @@ img {
     padding: 12px;
 }
 
-// <a href="/images/myw3schoolsimage.pdf" download>
-// </a>
+@media (max-width: 576px) { 
+    br {
+        display: none;
+    }
+ }
