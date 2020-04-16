@@ -32,6 +32,15 @@ img {
 
 .item {
 
+     &__contain {
+        margin-bottom: 2rem!important;
+        // background: red;
+    }
+
+    &__container {
+        margin: 1rem 0!important;
+    }
+
     &__dev {
          font-size: .9rem;
         margin-bottom: 1rem;
