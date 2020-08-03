@@ -25,7 +25,7 @@ img {
 }
 
 .item__contain {
-  margin-bottom: 2rem !important;
+  margin-bottom: 1rem;
 }
 
 .item__container {
@@ -55,5 +55,9 @@ img {
   br {
     display: none;
   }
+}
+
+.paragraph {
+  padding: 0 !important;
 }
 /*# sourceMappingURL=resume.css.map */
