@@ -33,7 +33,7 @@ img {
 .item {
 
      &__contain {
-        margin-bottom: 1rem!important;
+        margin-bottom: 2rem!important;
         // background: red;
     }
 
@@ -69,6 +69,6 @@ img {
     }
  }
 
- .paragraph {
-   padding: 0!important;
+ .edu>p {
+    margin: 0;
  }
